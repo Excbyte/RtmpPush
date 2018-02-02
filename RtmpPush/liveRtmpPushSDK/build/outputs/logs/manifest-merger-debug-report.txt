@@ -1,0 +1,91 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml
+		INJECTED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml
+		INJECTED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml
+		INJECTED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml
+		INJECTED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml
+		INJECTED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml
+application
+ADDED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:11:5-15:56
+	android:label
+		ADDED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:15:9-40
+uses-permission#android.permission.CAMERA
+ADDED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:16:3-65
+	android:name
+		ADDED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:16:20-62
+uses-feature#android.hardware.camera
+ADDED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:17:3-60
+	android:name
+		ADDED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:17:17-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:18:3-70
+	android:name
+		ADDED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:18:17-67
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:19:3-95
+	android:name
+		ADDED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:19:20-76
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:20:3-85
+	android:name
+		ADDED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:20:20-66
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:22:5-96
+	android:name
+		ADDED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:23:5-93
+	android:name
+		ADDED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:23:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:24:5-96
+	android:name
+		ADDED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:25:5-93
+	android:name
+		ADDED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:25:22-73
+uses-permission#android.permission.INTERNET
+ADDED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:26:5-84
+	android:name
+		ADDED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:26:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:27:5-85
+	android:name
+		ADDED from D:\yubaorong\as_work\RtmpPush\liveRtmpPushSDK\src\main\AndroidManifest.xml:27:22-65

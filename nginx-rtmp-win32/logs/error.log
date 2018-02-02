@@ -1,0 +1,78 @@
+2018/01/31 14:08:42 [notice] 10808#10812: using the "select" event method
+2018/01/31 14:08:42 [notice] 10808#10812: nginx/1.12.1
+2018/01/31 14:08:42 [info] 10808#10812: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2018/01/31 14:08:42 [notice] 10808#10812: start worker processes
+2018/01/31 14:08:42 [notice] 10808#10812: start worker process 10880
+2018/01/31 14:08:43 [notice] 10880#10884: nginx/1.12.1
+2018/01/31 14:08:43 [info] 10880#10884: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2018/01/31 14:08:43 [notice] 10880#10884: create thread 10932
+2018/01/31 14:08:43 [notice] 10880#10884: create thread 10936
+2018/01/31 14:08:43 [notice] 10880#10884: create thread 10940
+2018/01/31 14:08:46 [info] 10880#10932: *1 client connected '192.168.0.30'
+2018/01/31 14:08:46 [info] 10880#10932: *1 connect: app='live' args='' flashver='' swf_url='' tc_url='rtmp://192.168.0.222:1935/live' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 192.168.0.30, server: 0.0.0.0:1935
+2018/01/31 14:08:46 [info] 10880#10932: *1 createStream, client: 192.168.0.30, server: 0.0.0.0:1935
+2018/01/31 14:08:46 [info] 10880#10932: *1 publish: name='12345' args='' type=live silent=0, client: 192.168.0.30, server: 0.0.0.0:1935
+2018/01/31 14:08:58 [error] 10880#10932: *2 CreateFile() "C:\Users\Administrator\Desktop\nginx-rtmp-win32-master\nginx-rtmp-win32-master/html/WebReport/ReportServer" failed (3: The system cannot find the path specified), client: 192.168.0.182, server: , request: "GET /WebReport/ReportServer?op=fs_load&cmd=ssout&callback=jQuery1111017971769898270484_1513666741594&_=1513666795043 HTTP/1.1", host: "192.168.0.222:8080", referrer: "http://192.168.0.182/sjzx_gxpt/Pages/zyfl.html"
+2018/01/31 14:09:58 [error] 10880#10932: *2 CreateFile() "C:\Users\Administrator\Desktop\nginx-rtmp-win32-master\nginx-rtmp-win32-master/html/WebReport/ReportServer" failed (3: The system cannot find the path specified), client: 192.168.0.182, server: , request: "GET /WebReport/ReportServer?op=fs_load&cmd=ssout&callback=jQuery1111017971769898270484_1513666741594&_=1513666795044 HTTP/1.1", host: "192.168.0.222:8080", referrer: "http://192.168.0.182/sjzx_gxpt/Pages/zyfl.html"
+2018/01/31 14:09:59 [notice] 10628#10612: signal process started
+2018/01/31 14:09:59 [notice] 10808#10812: exiting
+2018/01/31 14:09:59 [notice] 10880#10884: gracefully shutting down
+2018/01/31 14:09:59 [notice] 10880#10936: exiting
+2018/01/31 14:10:04 [notice] 10808#10812: exit
+2018/01/31 14:10:27 [notice] 10536#10540: using the "select" event method
+2018/01/31 14:10:27 [notice] 10536#10540: nginx/1.12.1
+2018/01/31 14:10:27 [info] 10536#10540: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2018/01/31 14:10:27 [notice] 10536#10540: start worker processes
+2018/01/31 14:10:27 [notice] 10536#10540: start worker process 9976
+2018/01/31 14:10:27 [notice] 9976#8016: nginx/1.12.1
+2018/01/31 14:10:27 [info] 9976#8016: OS: 260110 build:7601, "Service Pack 1", suite:100, type:1
+2018/01/31 14:10:27 [notice] 9976#8016: create thread 10676
+2018/01/31 14:10:27 [notice] 9976#8016: create thread 8172
+2018/01/31 14:10:27 [notice] 9976#8016: create thread 10800
+2018/01/31 14:10:30 [info] 9976#10676: *1 client connected '192.168.0.30'
+2018/01/31 14:10:30 [info] 9976#10676: *1 connect: app='live' args='' flashver='' swf_url='' tc_url='rtmp://192.168.0.222:1935/live' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 192.168.0.30, server: 0.0.0.0:1935
+2018/01/31 14:10:30 [info] 9976#10676: *1 createStream, client: 192.168.0.30, server: 0.0.0.0:1935
+2018/01/31 14:10:30 [info] 9976#10676: *1 publish: name='12345' args='' type=live silent=0, client: 192.168.0.30, server: 0.0.0.0:1935
+2018/01/31 14:10:51 [error] 9976#10676: *2 CreateFile() "C:\Users\Administrator\Desktop\nginx-rtmp-win32-master\nginx-rtmp-win32-master/html/history/history.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /history/history.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2018/01/31 14:10:51 [error] 9976#10676: *3 CreateFile() "C:\Users\Administrator\Desktop\nginx-rtmp-win32-master\nginx-rtmp-win32-master/html/history/history.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /history/history.js HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2018/01/31 14:10:58 [error] 9976#10676: *5 CreateFile() "C:\Users\Administrator\Desktop\nginx-rtmp-win32-master\nginx-rtmp-win32-master/html/WebReport/ReportServer" failed (3: The system cannot find the path specified), client: 192.168.0.182, server: , request: "GET /WebReport/ReportServer?op=fs_load&cmd=ssout&callback=jQuery1111017971769898270484_1513666741594&_=1513666795045 HTTP/1.1", host: "192.168.0.222:8080", referrer: "http://192.168.0.182/sjzx_gxpt/Pages/zyfl.html"
+2018/01/31 14:11:12 [info] 9976#10676: *1 deleteStream, client: 192.168.0.30, server: 0.0.0.0:1935
+2018/01/31 14:11:12 [info] 9976#10676: *1 disconnect, client: 192.168.0.30, server: 0.0.0.0:1935
+2018/01/31 14:11:12 [info] 9976#10676: *1 deleteStream, client: 192.168.0.30, server: 0.0.0.0:1935
+2018/01/31 14:11:14 [info] 9976#10676: *6 client connected '192.168.0.30'
+2018/01/31 14:11:14 [info] 9976#10676: *6 connect: app='live' args='' flashver='' swf_url='' tc_url='rtmp://192.168.0.222:1935/live' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 192.168.0.30, server: 0.0.0.0:1935
+2018/01/31 14:11:15 [info] 9976#10676: *6 createStream, client: 192.168.0.30, server: 0.0.0.0:1935
+2018/01/31 14:11:15 [info] 9976#10676: *6 publish: name='12345' args='' type=live silent=0, client: 192.168.0.30, server: 0.0.0.0:1935
+2018/01/31 14:11:51 [info] 9976#10676: *4 client timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while waiting for request, client: 127.0.0.1, server: 0.0.0.0:8080
+2018/01/31 14:11:58 [error] 9976#10676: *5 CreateFile() "C:\Users\Administrator\Desktop\nginx-rtmp-win32-master\nginx-rtmp-win32-master/html/WebReport/ReportServer" failed (3: The system cannot find the path specified), client: 192.168.0.182, server: , request: "GET /WebReport/ReportServer?op=fs_load&cmd=ssout&callback=jQuery1111017971769898270484_1513666741594&_=1513666795046 HTTP/1.1", host: "192.168.0.222:8080", referrer: "http://192.168.0.182/sjzx_gxpt/Pages/zyfl.html"
+2018/01/31 14:12:17 [info] 9976#10676: *7 client connected '192.168.0.222'
+2018/01/31 14:12:17 [info] 9976#10676: *7 connect: app='live' args='' flashver='WIN 23,0,0,162' swf_url='http://localhost:8080/Main.swf' tc_url='rtmp://192.168.0.222:1935/live' page_url='http://localhost:8080/' acodecs=3575 vcodecs=252 object_encoding=3, client: 192.168.0.222, server: 0.0.0.0:1935
+2018/01/31 14:12:17 [info] 9976#10676: *7 createStream, client: 192.168.0.222, server: 0.0.0.0:1935
+2018/01/31 14:12:17 [info] 9976#10676: *7 play: name='12345' args='' start=0 duration=0 reset=0 silent=0, client: 192.168.0.222, server: 0.0.0.0:1935
+2018/01/31 14:12:58 [error] 9976#10676: *5 CreateFile() "C:\Users\Administrator\Desktop\nginx-rtmp-win32-master\nginx-rtmp-win32-master/html/WebReport/ReportServer" failed (3: The system cannot find the path specified), client: 192.168.0.182, server: , request: "GET /WebReport/ReportServer?op=fs_load&cmd=ssout&callback=jQuery1111017971769898270484_1513666741594&_=1513666795047 HTTP/1.1", host: "192.168.0.222:8080", referrer: "http://192.168.0.182/sjzx_gxpt/Pages/zyfl.html"
+2018/01/31 14:13:58 [error] 9976#10676: *5 CreateFile() "C:\Users\Administrator\Desktop\nginx-rtmp-win32-master\nginx-rtmp-win32-master/html/WebReport/ReportServer" failed (3: The system cannot find the path specified), client: 192.168.0.182, server: , request: "GET /WebReport/ReportServer?op=fs_load&cmd=ssout&callback=jQuery1111017971769898270484_1513666741594&_=1513666795048 HTTP/1.1", host: "192.168.0.222:8080", referrer: "http://192.168.0.182/sjzx_gxpt/Pages/zyfl.html"
+2018/01/31 14:14:58 [error] 9976#10676: *5 CreateFile() "C:\Users\Administrator\Desktop\nginx-rtmp-win32-master\nginx-rtmp-win32-master/html/WebReport/ReportServer" failed (3: The system cannot find the path specified), client: 192.168.0.182, server: , request: "GET /WebReport/ReportServer?op=fs_load&cmd=ssout&callback=jQuery1111017971769898270484_1513666741594&_=1513666795049 HTTP/1.1", host: "192.168.0.222:8080", referrer: "http://192.168.0.182/sjzx_gxpt/Pages/zyfl.html"
+2018/01/31 14:15:58 [error] 9976#10676: *5 CreateFile() "C:\Users\Administrator\Desktop\nginx-rtmp-win32-master\nginx-rtmp-win32-master/html/WebReport/ReportServer" failed (3: The system cannot find the path specified), client: 192.168.0.182, server: , request: "GET /WebReport/ReportServer?op=fs_load&cmd=ssout&callback=jQuery1111017971769898270484_1513666741594&_=1513666795050 HTTP/1.1", host: "192.168.0.222:8080", referrer: "http://192.168.0.182/sjzx_gxpt/Pages/zyfl.html"
+2018/01/31 14:16:35 [info] 9976#10676: *6 deleteStream, client: 192.168.0.30, server: 0.0.0.0:1935
+2018/01/31 14:16:35 [info] 9976#10676: *6 disconnect, client: 192.168.0.30, server: 0.0.0.0:1935
+2018/01/31 14:16:35 [info] 9976#10676: *6 deleteStream, client: 192.168.0.30, server: 0.0.0.0:1935
+2018/01/31 14:16:46 [info] 9976#10676: *7 disconnect, client: 192.168.0.222, server: 0.0.0.0:1935
+2018/01/31 14:16:46 [info] 9976#10676: *7 deleteStream, client: 192.168.0.222, server: 0.0.0.0:1935
+2018/01/31 14:16:49 [info] 9976#10676: *8 client connected '192.168.0.222'
+2018/01/31 14:16:49 [info] 9976#10676: *8 connect: app='live' args='' flashver='WIN 23,0,0,162' swf_url='http://localhost:8080/Main.swf' tc_url='rtmp://192.168.0.222:1935/live' page_url='http://localhost:8080/' acodecs=3575 vcodecs=252 object_encoding=3, client: 192.168.0.222, server: 0.0.0.0:1935
+2018/01/31 14:16:49 [info] 9976#10676: *8 createStream, client: 192.168.0.222, server: 0.0.0.0:1935
+2018/01/31 14:16:49 [info] 9976#10676: *8 play: name='12345' args='' start=0 duration=0 reset=0 silent=0, client: 192.168.0.222, server: 0.0.0.0:1935
+2018/01/31 14:16:57 [info] 9976#10676: *8 disconnect, client: 192.168.0.222, server: 0.0.0.0:1935
+2018/01/31 14:16:57 [info] 9976#10676: *8 deleteStream, client: 192.168.0.222, server: 0.0.0.0:1935
+2018/01/31 14:16:58 [error] 9976#10676: *5 CreateFile() "C:\Users\Administrator\Desktop\nginx-rtmp-win32-master\nginx-rtmp-win32-master/html/WebReport/ReportServer" failed (3: The system cannot find the path specified), client: 192.168.0.182, server: , request: "GET /WebReport/ReportServer?op=fs_load&cmd=ssout&callback=jQuery1111017971769898270484_1513666741594&_=1513666795051 HTTP/1.1", host: "192.168.0.222:8080", referrer: "http://192.168.0.182/sjzx_gxpt/Pages/zyfl.html"
+2018/01/31 14:17:58 [error] 9976#10676: *5 CreateFile() "C:\Users\Administrator\Desktop\nginx-rtmp-win32-master\nginx-rtmp-win32-master/html/WebReport/ReportServer" failed (3: The system cannot find the path specified), client: 192.168.0.182, server: , request: "GET /WebReport/ReportServer?op=fs_load&cmd=ssout&callback=jQuery1111017971769898270484_1513666741594&_=1513666795052 HTTP/1.1", host: "192.168.0.222:8080", referrer: "http://192.168.0.182/sjzx_gxpt/Pages/zyfl.html"
+2018/01/31 14:18:58 [error] 9976#10676: *5 CreateFile() "C:\Users\Administrator\Desktop\nginx-rtmp-win32-master\nginx-rtmp-win32-master/html/WebReport/ReportServer" failed (3: The system cannot find the path specified), client: 192.168.0.182, server: , request: "GET /WebReport/ReportServer?op=fs_load&cmd=ssout&callback=jQuery1111017971769898270484_1513666741594&_=1513666795053 HTTP/1.1", host: "192.168.0.222:8080", referrer: "http://192.168.0.182/sjzx_gxpt/Pages/zyfl.html"
+2018/01/31 14:19:58 [error] 9976#10676: *5 CreateFile() "C:\Users\Administrator\Desktop\nginx-rtmp-win32-master\nginx-rtmp-win32-master/html/WebReport/ReportServer" failed (3: The system cannot find the path specified), client: 192.168.0.182, server: , request: "GET /WebReport/ReportServer?op=fs_load&cmd=ssout&callback=jQuery1111017971769898270484_1513666741594&_=1513666795054 HTTP/1.1", host: "192.168.0.222:8080", referrer: "http://192.168.0.182/sjzx_gxpt/Pages/zyfl.html"
+2018/01/31 14:20:49 [notice] 10244#10528: signal process started
+2018/01/31 14:20:49 [notice] 10536#10540: exiting
+2018/01/31 14:20:49 [notice] 9976#8016: gracefully shutting down
+2018/01/31 14:20:49 [notice] 9976#8172: exiting
+2018/01/31 14:20:49 [notice] 9976#10676: exiting
+2018/01/31 14:20:49 [notice] 9976#8016: exit
+2018/01/31 14:20:49 [notice] 10536#10540: worker process 9976 exited with code 0
+2018/01/31 14:20:49 [notice] 10536#10540: exit
